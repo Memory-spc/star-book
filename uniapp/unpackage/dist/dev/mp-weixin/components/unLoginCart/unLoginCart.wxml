@@ -1,0 +1,1 @@
+<view class="unLogin"><uni-icons wx:if="{{a}}" u-i="663a8d1c-0" bind:__l="__l" u-p="{{a}}"></uni-icons><view></view><text>登录后可同步购物车中的商品</text><view></view><button bindtap="{{b}}" size="mini" class="loginBtn">登录</button></view>

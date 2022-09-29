@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "购物车",
+  "usingComponents": {
+    "un-login-cart": "../../components/unLoginCart/unLoginCart",
+    "login-cart": "../../components/loginCart/loginCart"
+  }
+}

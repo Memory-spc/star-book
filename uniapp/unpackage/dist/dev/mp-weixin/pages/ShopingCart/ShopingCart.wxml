@@ -1,0 +1,1 @@
+<view class="ShopingCart"><un-login-cart data-c-h="{{!a}}" u-i="50e9a6ea-0" bind:__l="__l"></un-login-cart><login-cart data-c-h="{{!b}}" u-i="50e9a6ea-1" bind:__l="__l"></login-cart></view>

@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/ShopingCart/ShopingCart",
+    "pages/myInfo/myInfo",
+    "pages/login/login"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "星星买书",
+    "navigationStyle": "default",
+    "backgroundColor": "#bbb",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": true,
+    "onReachBottomDistance": 50
+  },
+  "tabBar": {
+    "color": "#ffffff",
+    "selectedColor": "#FFC0CB",
+    "backgroundColor": "#d8a3ad",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "主页"
+      },
+      {
+        "pagePath": "pages/ShopingCart/ShopingCart",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/myInfo/myInfo",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

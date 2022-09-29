@@ -1,0 +1,10 @@
+
+.Card{
+		margin:10px 0;
+		text-align: center;
+		overflow: hidden;
+}
+image{
+		height: 100px;
+		width: 100%;
+}

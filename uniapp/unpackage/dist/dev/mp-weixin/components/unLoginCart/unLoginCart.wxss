@@ -1,0 +1,14 @@
+
+.unLogin {
+		text-align: center;
+		position: relative;
+		top: 50%;
+		transform: translateY(100%);
+}
+.loginBtn {
+		margin-top: 20px;
+		color: red;
+		width: 30%;
+		background-color: #fff;
+		border: 1px solid red;
+}
