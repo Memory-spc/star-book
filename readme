@@ -1,0 +1,4 @@
+第一步：安装node.js
+第二步：打开uniapp-server，在项目根目录打开终端，输入命令
+node server.js
+第三步：因为本项目使用的是bookshop项目的数据库，所以请先引入数据库，并在自己本地运行.sql文件
